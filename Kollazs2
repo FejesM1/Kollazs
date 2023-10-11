@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <a href="feladat.html">Kezdőoldal</a>
+    <h1>Kollázs</h1>
+   
+</head>
+<body>
+    <img src="foci.jpg" width="300"> <img src="geming.jpg" width="300">
+   <p><img src="canga.jpg" width="300"> <img src="tan.jpg" width="300"></p>
+    
+</body>
+</html>
